@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a 3rd year PhD student in the ECE department of Rice University, who is passinoate about efficient ML and algorithm-hardware co-design!
+
 <!-- ![Haoran's Language stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranery&layout=compact&langs_count=10&hide_border=1&role=OWNER) -->
 
 <!-- [![Haoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranery&orgs=RICE-EIC)](https://github.com/anuraghazra/github-readme-stats) -->
