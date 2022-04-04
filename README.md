@@ -33,3 +33,7 @@ I am a 3rd year PhD student in the ECE department of Rice University, who is pas
 <img width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=ranery&hide_border=true" />
 </p>
  -->
+ 
+Github Stats               |  Streak Stats
+:-------------------------:|:-------------------------:
+![Haoran's Github stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ranery&show_icons=true&theme=buefy&hide=prs&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats)  |  ![Haoran's Streak stats](https://github-readme-streak-stats.herokuapp.com?user=ranery&hide_border=true)
