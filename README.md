@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <!-- [![Haoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranery&orgs=RICE-EIC)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Haoran's Github stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ranery&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats)
+![Haoran's Github stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ranery&show_icons=true&theme=radical&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats)
