@@ -24,9 +24,9 @@ I am a 3rd year PhD student in the ECE department of Rice University, who is pas
 <!-- [![Haoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranery&orgs=RICE-EIC)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-![Haoran's Github stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ranery&show_icons=true&theme=buefy&hide=prs&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats)
+<!-- ![Haoran's Github stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ranery&show_icons=true&theme=buefy&hide=prs&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats)
 
-![Haoran's Streak stats](https://github-readme-streak-stats.herokuapp.com?user=ranery&hide_border=true)
+![Haoran's Streak stats](https://github-readme-streak-stats.herokuapp.com?user=ranery&hide_border=true) -->
 
 <!-- <p align="center">
 <img width="50%" src=https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ranery&show_icons=true&theme=buefy&hide=prs&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats />
