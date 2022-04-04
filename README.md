@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Haoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranery)](https://github.com/anuraghazra/github-readme-stats)
+
+[![EIC's GitHub stats](https://github-readme-stats.vercel.app/api?username=RICE-EIC)](https://github.com/anuraghazra/github-readme-stats)
