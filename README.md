@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fifth year PhD student in the ECE department of Rice University, who is passinoate about efficient/automated ML and algorithm-hardware co-design!
+I am a fifth-year Ph.D. student in the ECE department of Rice University, who is passionate about efficient/automated ML and algorithm-hardware co-design!
 
 <!-- ![Haoran's Language stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ranery&layout=compact&langs_count=10&hide_border=1&role=OWNER) -->
-
-<!-- [![Haoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranery&orgs=RICE-EIC)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 <!-- ![Haoran's Github stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ranery&show_icons=true&theme=buefy&hide=prs&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats)
 
@@ -36,4 +33,6 @@ I am a fifth year PhD student in the ECE department of Rice University, who is p
  
 Github Stats               |  Streak Stats
 :-------------------------:|:-------------------------:
-![Haoran's Github stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ranery&show_icons=true&theme=buefy&hide=prs&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats)  |  ![Haoran's Streak stats](https://github-readme-streak-stats.herokuapp.com?user=ranery&hide_border=true)
+![Haoran's Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ranery&show_icons=true&theme=buefy&hide=prs&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats)  |  ![Haoran's Streak stats](https://github-readme-streak-stats.herokuapp.com?user=ranery&hide_border=true)
+
+<!-- ![Haoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranery&show_icons=true&theme=buefy&bg_color=00000000) -->
